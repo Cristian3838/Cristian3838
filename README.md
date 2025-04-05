@@ -5,7 +5,8 @@ Se você chegou até aqui, acredito que tenha se interessado em saber um pouco m
 ---
 
 #### Formação Acadêmica:
-🎓 Graduado em Engenharia da Computação, Pós-Graduado em Engenharia de Software com Ênfase em Qualidade e Testes de Software  
+🎓 Graduado em Engenharia da Computação   
+🎓 Pós-Graduado em Engenharia de Software com Ênfase em Qualidade e Testes de Software   
 ✅ Analista de Testes de Software certificado pela BSTQB/ISTQB - CTFL    
 
 ---
