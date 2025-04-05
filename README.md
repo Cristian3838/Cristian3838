@@ -5,18 +5,12 @@ Se você chegou até aqui, acredito que tenha se interessado em saber um pouco m
 #### Formação Acadêmica:
 🎓 Graduado em Engenharia da Computação, Pós-Graduado em Engenharia de Software com Ênfase em Qualidade e Testes de Software  
 ✅ Analista de Testes de Software certificado pela BSTQB/ISTQB - CTFL    
-🤖 Automação de Testes de Software com Appium e Java para Mobile   
-🤖 Automação de Testes de Software com Cypress para Web
 
 #### Contatos:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-jonas-ataliba-7ba1631a5/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cristian.ataliba@outlook.com)   
 
-#### Infográfico:  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian3838)](https://github.com/anuraghazra/github-readme-stats)
-
-### Tecnologias que uso no meu dia a dia:
+### Tecnologias que detenho conhecimento:
 
 #### Qualidade e Metodologias:
 <div align="left">
@@ -58,6 +52,41 @@ Se você chegou até aqui, acredito que tenha se interessado em saber um pouco m
   <img src="https://img.shields.io/badge/Testes%20Web%20com%20Cypress-darkgreen?style=for-the-badge" alt="Testes Web Cypress" />
   <img src="https://img.shields.io/badge/Testes%20Mobile%20com%20Appium%20e%20Java-purple?style=for-the-badge" alt="Testes Mobile Appium Java" />
 </div>
+
+---
+#### Infográfico das linguagens de programação mais praticadas:  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian3838)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+#### Minha área de estudo:
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| **Automação E2E com Cypress** | Testes end-to-end para sistemas WEB | Cypress, JavaScript |
+| **Testes Mobile com Appium** | Validação de app Android e IOS | Appium, Java |
+
+---
+#### Meu dia a dia de trabalho:
+
+- Elaboração de planos de testes funcionais para o Sistema Web, Mobile(Android e IOS) conforme documentos de casos de uso, execuções, revisões e especificações técnicas das regras de negócio do sistema.
+
+- Testes funcionais voltados para aplicativos Android, incluindo celulares e tablets, desenvolvimento de testes de regressão, garantindo a regra de negócio. Relatórios de bugs e relatórios de status de execução de teste.
+
+- Testes de integração REST API e SOAPUI, elaborando casos de uso e reportando bugs.
+
+- Atuar no levantamento de requisitos junto aos Desenvolvedores em relação a melhorias, possíveis falhas, riscos e defeitos ao longo do processo, garantindo que o software corresponda à necessidade do cliente, aliada à regra de negócio.
+
+- Presenças em reuniões Scrum, ajustes e configurações de regras de negócios com P.O.
+
+- Acompanhamento de bugs urgentes com a equipe de desenvolvimento.
+
+- Conhecimento em busca e interpretação de logs do sistema.
+
+- Geração de massa de dados em SQL para realização de testes em aplicações WEB, Mobile e API.
+
+---
 
 #### Um Pouco mais sobre mim:
 Sou um profissional apaixonado por tecnologia, **em constante evolução e aprendizado contínuo**, sempre buscando o aperfeiçoamento profissional por meio do conhecimento. Tenho sólida experiência na área de **Garantia da Qualidade e Testes de Software**, com forte capacidade analítica, atenção aos detalhes e foco em resultados.
