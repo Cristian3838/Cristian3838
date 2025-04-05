@@ -8,6 +8,7 @@ Se você chegou até aqui, acredito que tenha se interessado em saber um pouco m
 🤖 Automação de Testes de Software com Appium e Java para Mobile   
 🤖 Automação de Testes de Software com Cypress para Web
 
+#### Contatos:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-jonas-ataliba-7ba1631a5/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cristian.ataliba@outlook.com)   
 
