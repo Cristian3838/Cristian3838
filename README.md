@@ -13,7 +13,6 @@ Se você chegou até aqui, acredito que tenha se interessado em saber um pouco m
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cristian.ataliba@outlook.com)   
 
 #### Infográfico:  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian3838&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian3838)](https://github.com/anuraghazra/github-readme-stats)
 
