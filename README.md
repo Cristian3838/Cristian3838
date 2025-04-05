@@ -2,13 +2,19 @@
 Bem-vindo ao meu perfil!
 Se você chegou até aqui, acredito que tenha se interessado em saber um pouco mais sobre meu perfil profissional.
 
+---
+
 #### Formação Acadêmica:
 🎓 Graduado em Engenharia da Computação, Pós-Graduado em Engenharia de Software com Ênfase em Qualidade e Testes de Software  
 ✅ Analista de Testes de Software certificado pela BSTQB/ISTQB - CTFL    
 
+---
+
 #### Contatos:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-jonas-ataliba-7ba1631a5/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cristian.ataliba@outlook.com)   
+
+---
 
 ### Tecnologias que detenho conhecimento:
 
@@ -54,6 +60,7 @@ Se você chegou até aqui, acredito que tenha se interessado em saber um pouco m
 </div>
 
 ---
+
 #### Infográfico das linguagens de programação mais praticadas:  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian3838)](https://github.com/anuraghazra/github-readme-stats)
