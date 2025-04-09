@@ -6,7 +6,7 @@
   />
 </div>
 
-### Olá! Eu sou Cristian Jonas, Analista de Testes de Software(QA) 🔍
+### Olá! Eu sou Cristian Jonas, Analista de Testes de Software(QA) 🔍🐞
 Bem-vindo ao meu perfil!
 Se você chegou até aqui, acredito que tenha se interessado em saber um pouco mais sobre meu perfil profissional.
 
