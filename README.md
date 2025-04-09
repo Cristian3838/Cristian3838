@@ -1,5 +1,9 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img 
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnUwYTF4bGk1ajNzcWViZDZsOTZsZTdpMHhwdnoyOWxwMnZqZTI2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ge37NVjuTAvTYtD7kR/giphy.gif" 
+    alt="Software Testing GIF" 
+    width="200"
+  />
 </div>
 
 ### Olá! Eu sou Cristian Jonas, Analista de Testes de Software(QA) 🔍
