@@ -73,7 +73,7 @@ Se você chegou até aqui, acredito que tenha se interessado em saber um pouco m
 #### Infográfico das linguagens de programação mais praticadas:  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian3838)](https://github.com/anuraghazra/github-readme-stats)
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian3838&show_icons=true&count_private=true&theme=tokyonight)
+![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristian3838&show_icons=true&count_private=true&theme=radical)
 
 
 ---
