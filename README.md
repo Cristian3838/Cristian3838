@@ -15,7 +15,7 @@ Se você chegou até aqui, acredito que tenha se interessado em saber um pouco m
 #### Formação Acadêmica:
 🎓 Graduado em Engenharia da Computação   
 🎓 Pós-Graduado em Engenharia de Software com Ênfase em Qualidade e Testes de Software    
-🎓 Cursando Pós-Graduação em Desenvolvimento Orientado a Objetos em Java
+🎓 Cursando Pós-Graduação em Desenvolvimento Orientado a Objetos em Java      
 ✅ Analista de Testes de Software certificado pela BSTQB/ISTQB - CTFL    
 
 ---
